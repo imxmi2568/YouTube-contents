@@ -1,0 +1,4 @@
+(executable
+ (public_name leftist_heap)
+ (name main)
+ (libraries leftist_heap))
